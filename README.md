@@ -5,5 +5,7 @@ Code created for python3 + iSpec_v20201001 (available from https://www.blancocua
 
 A manual for the usage of the code is included in this folder
 
+Due to its size, the full line list barber_Mdwarf_final.list cannot be included in this github. If you need it for any reason, please request it via email.
+
 For any questions, please contact the author Pedro Sarmento - pedrotksarmento@gmail.com
 
